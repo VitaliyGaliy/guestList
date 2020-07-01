@@ -1,0 +1,20 @@
+[
+    {
+        "userName": "David",
+        "invitationStatus": false,
+        "email": "david@mail.com",
+        "id": 1
+    },
+    {
+        "userName": "George",
+        "invitationStatus": false,
+        "email": "george@mail.com",
+        "id": 2
+    },
+    {
+        "userName": "Michael",
+        "invitationStatus": false,
+        "email": "michael@mail.com",
+        "id": 3
+    }
+]
